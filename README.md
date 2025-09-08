@@ -1,4 +1,4 @@
-# Full Stack AI SaaS Web App with Authentication 🤯
+# Full Stack AI SaaS Web App with Authentication
 ## Overview
 This project is a full stack AI SaaS web application built with NextJS 15, TailwindCSS, Stripe, TypeScript, and Clerk for user authentication, featuring robust user authentication, secure payment processing, and a modern responsive design.
 
@@ -17,10 +17,6 @@ This project is a full stack AI SaaS web application built with NextJS 15, Tailw
 - Clerk
 - Prisma
 - PostgreSQL
-
-## Tutorial Video
-Watch our detailed YouTube tutorial on how to build this project:  
-[Build A Full Stack AI SaaS Web App With Authentication In NextJS 15, TailwindCSS, Stripe, TypeScript](https://youtu.be/RUE3nYI75VE)
 
 ## Installation
 1. **Clone the repository:**
@@ -46,6 +42,3 @@ Watch our detailed YouTube tutorial on how to build this project:
 - Visit `http://localhost:3000` to view the application.
 - Sign up or sign in using Clerk.
 - Manage your subscriptions and explore the AI-powered features.
-
-## Contributing
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
