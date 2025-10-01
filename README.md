@@ -1,6 +1,12 @@
 # 🍽️ SaaS Meal Planning Platform
-## Overview
+## 📋 Overview
 **Full-stack subscription-based meal planning application with integrated payment processing and personalized dietary management.** Built with Next.js 15 and TypeScript, this SaaS platform enables users to create customized meal plans based on dietary preferences, with secure authentication and recurring subscription billing.
+
+## 📊 Impact
+- 🍴 15+ dietary preferences supported (vegetarian, vegan, keto, gluten-free, etc.)
+- 💳 Seamless payment integration with Stripe for recurring subscriptions
+- 🔐 Secure user onboarding with Clerk authentication
+- ⚡ Server-side rendering for optimized page load performance
 
 ## ✨Key Features
 - **User Authentication:** Secure sign-up, sign-in, and profile management using [Clerk](https://go.clerk.com/TFWZCy5).
@@ -9,7 +15,7 @@
 - **Type Safety:** Fully typed with TypeScript for improved maintainability.
 - **Scalable Architecture:** Built on NextJS 15 with serverless functions and modern best practices.
 
-## Technologies Used
+## 🛠️ Tech Stack
 - NextJS 15
 - TailwindCSS
 - Stripe
