@@ -1,8 +1,8 @@
-# Full Stack AI SaaS Web App with Authentication
+# 🍽️ SaaS Meal Planning Platform
 ## Overview
-This project is a full stack AI SaaS web application built with NextJS 15, TailwindCSS, Stripe, TypeScript, and Clerk for user authentication, featuring robust user authentication, secure payment processing, and a modern responsive design.
+**Full-stack subscription-based meal planning application with integrated payment processing and personalized dietary management.** Built with Next.js 15 and TypeScript, this SaaS platform enables users to create customized meal plans based on dietary preferences, with secure authentication and recurring subscription billing.
 
-## Features
+## ✨Key Features
 - **User Authentication:** Secure sign-up, sign-in, and profile management using [Clerk](https://go.clerk.com/TFWZCy5).
 - **Responsive UI:** Sleek and modern interface built with TailwindCSS.
 - **Payment Processing:** Subscription management and secure payments via Stripe.
@@ -18,6 +18,13 @@ This project is a full stack AI SaaS web application built with NextJS 15, Tailw
 - Prisma
 - PostgreSQL
 
+## Setup & Running
+**Prerequisites:**
+- Node.js 18+
+- PostgreSQL database
+- Stripe account
+- Clerk account
+  
 ## Installation
 1. **Clone the repository:**
    ```bash
